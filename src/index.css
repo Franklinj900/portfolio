@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-900 text-gray-100;
+  }
+}
+
+@layer components {
+  .section-title {
+    @apply text-2xl font-bold mb-4 text-blue-400;
+  }
+  .card {
+    @apply bg-gray-800 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300;
+  }
+}
