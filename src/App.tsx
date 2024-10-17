@@ -70,7 +70,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-900 text-gray-100 py-12 px-4 sm:px-6 lg:px-8">
       <header className="max-w-4xl mx-auto text-center mb-12">
-        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80" alt="Franklin Ramos" className="w-32 h-32 rounded-full mx-auto mb-4 object-cover" />
+        <img src="https://avatars.githubusercontent.com/u/119386940?v=4" alt="Franklin Ramos" className="w-32 h-32 rounded-full mx-auto mb-4 object-cover" />
         <h1 className="text-4xl font-bold mb-2">Franklin Ramos</h1>
         <p className="text-xl text-gray-400">Biomedical Engineer | Backend Developer | Data Scientist</p>
         <div className="flex justify-center space-x-4 mt-4">
